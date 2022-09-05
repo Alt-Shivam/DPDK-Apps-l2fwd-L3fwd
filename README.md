@@ -1,1 +1,1 @@
-# DPDK-Apps-l2fwd-L3fwd.
+# DPDK-Apps-l2fwd-L3fwd
